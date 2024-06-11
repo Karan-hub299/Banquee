@@ -1,0 +1,147 @@
+.container {
+    width: 1668px;
+    height: 865px;
+    margin-top: 45px;
+    margin-left: 31px;
+    margin-right: 31px;
+    border-radius: 30px;
+    background-color:  #4C27AE;
+    display:flex;
+    flex-direction:column;
+    
+}
+.BrandBox{
+    width: 369px;
+    height: 80px;
+    margin-top: 45px;
+    margin-left: 693px;
+    border-radius: 100px ;
+    display:flex; 
+    justify-content: center;
+    align-items: center; 
+    
+}
+.BrandNameBox{
+    width: 234px;
+    height: 50px;
+    top: 105px;
+    left: 748px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BrandName{
+    width: 174px;
+    height: 33px;
+    top: 113px;
+    left: 808px;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 32.71px;
+    text-align: center;
+}
+
+.mainbox{
+    height: 730px;
+    background-color:#4C27AE;
+    display:flex;
+    margin-top: 10px;
+
+
+}
+.content {
+    background-color:#4C27AE;
+    width: 50%;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+#Heading{
+    background-color: #4C27AE;
+    width: 874px;
+    height: 226px;
+    margin-top: 10px;
+    margin-left: 380px;
+    margin-bottom:40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 90px;
+    font-weight: 900;
+    line-height: 113.22px;
+    text-align: left;
+    color:white;
+
+
+}
+#subheading{
+    background-color: #4C27AE;
+    color: white;
+    width: 500px;
+    height: 84px;
+    /* margin-top: 536px;
+    margin-left: 175px; */
+    margin-bottom: 40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 27.68px;
+    text-align: left;
+
+}
+#getStarted{
+    width:  518px;
+    height:  123px;
+    /* margin-top: 703px;
+    margin-left: 175px; */
+    padding: 40px 55px 40px 55px;
+    gap: 10px;
+    border-radius: 100px ;
+    opacity: 0px;
+    background-color:  #ED7E02;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+
+}
+#buttoncontent{
+    width: 316px;
+    height: 43px;
+    top: 40px;
+    left: 55px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 42.77px;
+    text-align: left;
+    color: #101010;
+    background-color:  #ED7E02;
+    ;
+
+
+
+}
+.mainboximage{
+    background-color: #4C27AE;
+    background-image:url("./c95f1b5f66cf2c8ab1bd21e32b0c4778.png");
+    background-size:contain;
+    width: 650px;
+    /* height: 946px; */
+    top: 170px;
+    left: 924px;
+    gap: 0px;
+    opacity: 0px;
+
+   
+}
